@@ -26,8 +26,7 @@ et examiné à la fois La comparaison de l'évolution de la population dans chaq
 nous avons également trié du continent le plus peuplé au moins peuplé,
 finissant par les plus 10 population dans le monde . 
 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jawher-Mehrez/Data_A_Population/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jawher-Mehrez/Data_A_Population/blob/master/population.ipynb/HEAD)
 ![0_ziR1fT67_yb7uQls](https://user-images.githubusercontent.com/120089441/210605072-e82ab6a0-bc77-446b-b5a7-07c9bd3bec2c.jpeg)
 
 

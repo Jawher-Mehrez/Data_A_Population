@@ -1,5 +1,8 @@
 Data_Analysis_population_project
 ![jupyter-python 6188762b](https://user-images.githubusercontent.com/120089441/210604016-3df7e0ef-89a3-4301-ade1-cef6b740c554.png)
+## Context :
+Dans ce projet, nous étudions les données démographiques mondiales relatives à chaque pays/entité dans le monde.
+
 ## Etape 1:
 
 <p>Nous utiliserons Jupyter Notebook qui vous permet d'exécuter du code au fur et à mesure,

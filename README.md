@@ -25,9 +25,10 @@ Nous avons effectué une analyse de données de base sur des pays du monde entie
 et examiné à la fois La comparaison de l'évolution de la population dans chaque continent entre 1970 et 2022,
 nous avons également trié du continent le plus peuplé au moins peuplé,
 finissant par les plus 10 population dans le monde . 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jawher-Mehrez/Data_A_Population/main)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jawher-Mehrez/Data_A_Population/blob/master/population.ipynb/HEAD)
-![0_ziR1fT67_yb7uQls](https://user-images.githubusercontent.com/120089441/210605072-e82ab6a0-bc77-446b-b5a7-07c9bd3bec2c.jpeg)
+![0_ziR1fT67_yb7uQls](https://user-images.githubusercontent.com/120089441/210609334-c7674391-66c0-4eb3-b683-664cbc5571fe.jpeg)
+
 
 
 
